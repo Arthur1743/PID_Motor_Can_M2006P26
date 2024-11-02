@@ -1,0 +1,2 @@
+../Core/Src/PID.c:16:6:PID_INIT	40	static
+../Core/Src/PID.c:34:6:PID_CONTROLLER	32	static
